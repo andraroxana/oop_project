@@ -8,7 +8,7 @@ o adding products\
 o editing products\
 o deleting products\
 o order processing\
-o reporting (in a text file) on orders received\
+o reporting (in a text file) on orders received
 ### Customer specific requirements:
 o viewing products in the shop\
 o selecting the desired products and placing them in an electronic basket\
